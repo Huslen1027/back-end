@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "macbook",
+      "price": 1000000
+    },
+    {
+      "name": "macbook",
+      "price": 1000000
+    },
+    {
+      "name": "macbook",
+      "price": 1000000
+    }
+  ],
+  "users": [
+    {
+      "name": "macbook",
+      "price": 1000000
+    },
+    {
+      "name": "phone",
+      "price": 2000
+    },
+    {
+      "name": "apple",
+      "price": 100000000000000
+    }
+  ]
+}
